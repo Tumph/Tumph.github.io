@@ -1,3 +1,6 @@
+html {
+  scroll-behavior: smooth;
+}
 body {
     background-color: black;
     background-image: url('https://cdn.wallpapersafari.com/77/18/sVv7RC.jpg');
@@ -121,12 +124,17 @@ figure {
 img {
   border-style: none;
 }
+
 code,
 kbd,
 pre,
 samp {
   font-family: monospace, monospace;
   font-size: 1em;
+}
+#lasthome
+{
+  text-align: center!important;
 }
 hr {
   box-sizing: content-box;
