@@ -4,13 +4,22 @@ body {
   }
 #name1
 {
-    color: rgb(224, 141, 15);
+    color: rgb(255, 177, 59);
     text-align: center;
-    background: whitesmoke;
+}
+#name1a
+{
+  display:inline-block;
+  background: black;
 }
 #propic
 {
-    width: 10%
+  border-radius: 25%;
+    width: 15%
+}
+h3{
+  color: white;
+  
 }
   p {
     color: red;
